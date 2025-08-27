@@ -13,9 +13,6 @@ Passionate about **frontend & backend development**, learning new technologies, 
 
 ---
 
-## 🎓 About Me  
-I’m also sharing my coding journey and projects online.  
-
 📫 Reach me at: **metehankartop@icloud.com**  
 
 ---
