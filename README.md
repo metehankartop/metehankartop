@@ -1,7 +1,8 @@
 # Hi 👋 I'm Metehan  
 ## 💫 About Me:  
-I’m a third-year Software Engineering student at TED University, and I have completed three internships to gain hands-on experience in the field.  
-Passionate about frontend & backend development, learning new technologies, and building scalable applications.  
+I'm a third-year Software Engineering student at TED University and have completed three internships to gain hands-on experience in this field.
+
+I'm passionate about front-end and back-end development, learning new technologies, and building scalable applications. 
 ---
 ## 🚀 What I'm Up To  
 - 🌱 Currently improving my Spring Boot, Docker skills  
